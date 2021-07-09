@@ -113,7 +113,7 @@ quantity="0" unit="chars"/><ref n="1" target="ftn1"/> wurde im Rahmen des Hackat
   <p style="text-align:left; ">375 Speisekarten mit 1.020 Seiten aus den Jahren 1855 bis 2008 wurden inklusive 
   <hi rend="italic">Metadaten</hi> durch die 
   <hi rend="italic">Monacensia</hi> bereitgestellt. Sie entstammen 144 Münchner Gaststätten, Restaurants, Cafés, Bars, Festzelten und -hallen, die regional größtenteils in den Stadtbezirken Altstadt-Lehel und Ludwigvorstadt-Isarvorstadt zu verorten sind. Aufgrund unterschiedlicher Schriftarten wurde in 
-  <hi rend="italic"><rs key="Transkribus" ana="">Transkribus</rs></hi> ein komplementärer Ansatz mit 
+  <hi rend="italic"><rs key="Transkribus">Transkribus</rs></hi> ein komplementärer Ansatz mit 
   <hi rend="italic">Handwritten Text Recognition</hi> (<hi rend="italic">HTR</hi>) und 
   <hi rend="italic">Optical Character Recognition</hi> (<hi rend="italic">OCR</hi>) verfolgt. Anschließend erfolgte eine manuelle Fehlerüberprüfung. Zusätzlich wurde ein 
   <hi rend="italic">Tagset</hi> entworfen, um die konsistente Annotation von Mengenangaben und Preisen, Gerichten und deren Zusammensetzung zu gewährleisten. Für die kollaborative Projektarbeit, insbesondere die Datenorganisation und -analyse, wurde die Lehr- und Forschungsinfrastruktur 
@@ -193,7 +193,7 @@ quantity="0" unit="chars"/><ref n="1" target="ftn1"/> wurde im Rahmen des Hackat
                     <hi rend="italic">Schmankerl Time Machine</hi> handelt es sich um einen fortgeschrittenen Prototyp. Um sein Potenzial sowohl für wissenschaftliche Fragestellungen als auch für eine interessierte Öffentlichkeit zu vergrößern, ist die Integration weiterer Speisekartensammlungen und damit eine wesentliche Erweiterung des Datenbestands vorgesehen. Damit einhergehend wird darauf abgezielt, die Annotation der Karten – unter Einbezug der „Crowd“<ref n="7" target="ftn7"/> – fortzuführen und um weitere Analysekategorien zu erweitern. In Kooperation mit der 
                     <hi rend="italic">Monacensia</hi> ist zu diesem Zweck auch ein 
                     <hi rend="italic">Edithaton</hi> geplant, bei dem Studierende der Ludwig-Maximilians-Universität München u. a. praktische Kenntnisse im Umgang mit 
-                    <hi rend="italic"><rs key="Transkribus" ana="">Transkribus</rs></hi> erhalten.
+                    <hi rend="italic"><rs key="Transkribus">Transkribus</rs></hi> erhalten.
                 </p>
 <p style="text-align:left; ">Ein Beispiel, welche Forschungsfragen dadurch eröffnet werden können, stellt das Projekt „Menu Journeys“ dar, das Studierende der 
                     <hi rend="italic">Berkeley School of Information</hi> 2015 angestoßen haben.<ref n="8" target="ftn8"/> In interaktiven Grafiken wird auf Basis des Speisekartenbestands der 

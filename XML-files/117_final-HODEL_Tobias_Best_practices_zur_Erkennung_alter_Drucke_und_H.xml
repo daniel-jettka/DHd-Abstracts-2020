@@ -117,8 +117,8 @@
 </div>
 <div rend="DH-Heading2" type="div2">
 <head>Schwierigkeiten/Probleme</head>
-<p style="text-align:left; ">Das Training der semantischen Layouterkennung ist erst experimentell in <rs key="Transkribus" ana="">Transkribus</rs> implementiert und schlecht dokumentiert (das Training kann auch extern über ein eigene Tool erfolgen [<?biblio ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"YvKyG2fC","properties":{"formattedCitation":"(Ares Oliveira u.\\uc0\\u160{}a. 2018)","plainCitation":"(Ares Oliveira u. a. 2018)","noteIndex":0},"citationItems":[{"id":17596,"uris":["http://zotero.org/users/534029/items/BMXF8I4V"],"uri":["http://zotero.org/users/534029/items/BMXF8I4V"],"itemData":{"id":17596,"type":"chapter","title":"dhSegment: A generic deep-learning approach for document segmentation","container-title":"Frontiers in Handwriting Recognition (ICFHR), 2018, 16th International Conference","page":"7-12","author":[{"family":"Ares Oliveira","given":"Sofia"},{"family":"Seguin","given":"Benoît"},{"family":"Kaplan","given":"Frédéric"}],"issued":{"date-parts":[["2018"]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"}?>Ares Oliveira u. a. 2018; 
-                        <?biblio ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"bDoLMH2d","properties":{"formattedCitation":"(Quir\\uc0\\u243{}s 2017)","plainCitation":"(Quirós 2017)","noteIndex":0},"citationItems":[{"id":17595,"uris":["http://zotero.org/users/534029/items/AA8PRACR"],"uri":["http://zotero.org/users/534029/items/AA8PRACR"],"itemData":{"id":17595,"type":"book","title":"P2PaLA: page to PAGE layout analysis tookit","URL":"https://github.com/lquirosd/P2PaLA","note":"GitHub repository \nCitation Key: p2pala2017 \nbibtex*[publisher=GitHub]","author":[{"family":"Quirós","given":"Lorenzo"}],"issued":{"date-parts":[["2017"]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"}?>Quirós 2017]). Die Technologie ist insgesamt noch experimentell. Die Extraktion spezifischer Textregionen erfordert zudem Erfahrung im Umgang mit der REST API von <rs key="Transkribus" ana="">Transkribus</rs>. 
+<p style="text-align:left; ">Das Training der semantischen Layouterkennung ist erst experimentell in <rs key="Transkribus">Transkribus</rs> implementiert und schlecht dokumentiert (das Training kann auch extern über ein eigene Tool erfolgen [<?biblio ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"YvKyG2fC","properties":{"formattedCitation":"(Ares Oliveira u.\\uc0\\u160{}a. 2018)","plainCitation":"(Ares Oliveira u. a. 2018)","noteIndex":0},"citationItems":[{"id":17596,"uris":["http://zotero.org/users/534029/items/BMXF8I4V"],"uri":["http://zotero.org/users/534029/items/BMXF8I4V"],"itemData":{"id":17596,"type":"chapter","title":"dhSegment: A generic deep-learning approach for document segmentation","container-title":"Frontiers in Handwriting Recognition (ICFHR), 2018, 16th International Conference","page":"7-12","author":[{"family":"Ares Oliveira","given":"Sofia"},{"family":"Seguin","given":"Benoît"},{"family":"Kaplan","given":"Frédéric"}],"issued":{"date-parts":[["2018"]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"}?>Ares Oliveira u. a. 2018; 
+                        <?biblio ADDIN ZOTERO_ITEM CSL_CITATION {"citationID":"bDoLMH2d","properties":{"formattedCitation":"(Quir\\uc0\\u243{}s 2017)","plainCitation":"(Quirós 2017)","noteIndex":0},"citationItems":[{"id":17595,"uris":["http://zotero.org/users/534029/items/AA8PRACR"],"uri":["http://zotero.org/users/534029/items/AA8PRACR"],"itemData":{"id":17595,"type":"book","title":"P2PaLA: page to PAGE layout analysis tookit","URL":"https://github.com/lquirosd/P2PaLA","note":"GitHub repository \nCitation Key: p2pala2017 \nbibtex*[publisher=GitHub]","author":[{"family":"Quirós","given":"Lorenzo"}],"issued":{"date-parts":[["2017"]]}}}],"schema":"https://github.com/citation-style-language/schema/raw/master/csl-citation.json"}?>Quirós 2017]). Die Technologie ist insgesamt noch experimentell. Die Extraktion spezifischer Textregionen erfordert zudem Erfahrung im Umgang mit der REST API von <rs key="Transkribus">Transkribus</rs>. 
                     </p>
 </div>
 </div>
@@ -139,14 +139,14 @@
 </div>
 <div rend="DH-Heading2" type="div2">
 <head>Schwierigkeiten/Probleme</head>
-<p style="text-align:left; ">Die Auswertenden der Trefferliste müssen die Handschrift/den Druck selbst lesen können, um korrekte Treffer zu identifizieren. Die Suche erfolgt in den Erkenntabellen (sog. confidence matrices), da diese nicht durch etablierte Datenbanksysteme etabliert werden, ist die Performanz niedrig und Suchen in mehr als 1'000 Seiten dauern mehrere Minuten (50'000 Seiten werden in knapp 3 Stunden durchsucht). Die Abfragen müssen in <rs key="Transkribus" ana="">Transkribus</rs> erfolgen bzw. über die REST API.</p>
+<p style="text-align:left; ">Die Auswertenden der Trefferliste müssen die Handschrift/den Druck selbst lesen können, um korrekte Treffer zu identifizieren. Die Suche erfolgt in den Erkenntabellen (sog. confidence matrices), da diese nicht durch etablierte Datenbanksysteme etabliert werden, ist die Performanz niedrig und Suchen in mehr als 1'000 Seiten dauern mehrere Minuten (50'000 Seiten werden in knapp 3 Stunden durchsucht). Die Abfragen müssen in <rs key="Transkribus">Transkribus</rs> erfolgen bzw. über die REST API.</p>
 </div>
 </div>
 <div rend="DH-Heading1" type="div1">
 <head>Visualisierung</head>
 <figure>
 <graphic height="11.976805555555556cm" n="1001" rend="inline" url="117_final-87ac3cdf5abc99b918959015c54a697f.jpeg" width="15.980833333333333cm"/>
-<head>Abbildung 1: Visualisierung der Szenarien zur Textaufbereitung in <rs key="Transkribus" ana="">Transkribus</rs>. Abbildung des Autors, 
+<head>Abbildung 1: Visualisierung der Szenarien zur Textaufbereitung in <rs key="Transkribus">Transkribus</rs>. Abbildung des Autors, 
                         <ref target="https://creativecommons.org/cc-by">CC-BY</ref>.
                     </head>
 </figure>
@@ -177,7 +177,7 @@
 <graphic height="5.681183333333333cm" n="1003" rend="inline" url="117_final-04832619c1d411a33506f3494cff66ab.png" width="8.541780555555556cm"/>
 <head>Abbildung 3: Lernkurve eines Netzes, das noch weiter austrainiert werden könnte.</head>
 </figure>
-<p style="text-align:left; ">Die Anwendung von Texterkennung, etwa mit <rs key="Transkribus" ana="">Transkribus</rs>, ist ohne technische Vorkenntnisse problemlos erlernbar. Mit Rücksicht auf einige wenige Kniffe und mit basalen Kenntnissen der angewandten Algorithmen lassen sich grössere Dokumentenmengen sinnvoll und effizient aufbereiten.</p>
+<p style="text-align:left; ">Die Anwendung von Texterkennung, etwa mit <rs key="Transkribus">Transkribus</rs>, ist ohne technische Vorkenntnisse problemlos erlernbar. Mit Rücksicht auf einige wenige Kniffe und mit basalen Kenntnissen der angewandten Algorithmen lassen sich grössere Dokumentenmengen sinnvoll und effizient aufbereiten.</p>
 <figure>
 <graphic height="5.681183333333333cm" n="1004" rend="inline" url="117_final-b79ad1544166583cd26921a3b4407888.png" width="8.541777777777778cm"/>
 <head>Abbildung 4: Lernkurve eines austrainierten Netzes mit genügend Epochen und ausreichend Trainingsmaterial.</head>
@@ -193,7 +193,7 @@ Im Rahmen eines Wettbewerbs an der ICFHR 2018 wurden nur noch Algorithmen basier
                     
     </note>
     <note n="2" rend="footnote text" xml:id="ftn2">
-Eine Alternative zu <rs key="Transkribus" ana="">Transkribus</rs> ist die Open Source Software Kraken, die ebenfalls auf der Basis neuronaler Netze Trainings individueller Handschriftenmodelle erlaubt. Für die Erkennung alter Drucke (gedruckt vor 1830) eignen sich auch Open Source Tools wie Tesseract. Siehe dazu den aktuellen Stand der Förderinitiative OCR-D, Neudecker u. a. 2019.
+Eine Alternative zu <rs key="Transkribus">Transkribus</rs> ist die Open Source Software Kraken, die ebenfalls auf der Basis neuronaler Netze Trainings individueller Handschriftenmodelle erlaubt. Für die Erkennung alter Drucke (gedruckt vor 1830) eignen sich auch Open Source Tools wie Tesseract. Siehe dazu den aktuellen Stand der Förderinitiative OCR-D, Neudecker u. a. 2019.
     </note>
     <note n="3" rend="footnote text" xml:id="ftn3">
  Aktuell ist der Zugang zur Trainingsfunktionalität nicht standardmässig gegeben. Per Mail (an email@transkribus.eu) wird die Möglichkeit aber rasch und unkompliziert gewährt.
