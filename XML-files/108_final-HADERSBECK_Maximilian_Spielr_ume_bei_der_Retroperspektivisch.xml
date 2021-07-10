@@ -171,7 +171,7 @@ Lemmata <hi rend="italic"> (WiTTLex,</hi> Röhrer 2019). Diese Informationen wer
                         <hi rend="italic">KDD</hi>, volume 96, pages 226–231.
                     </bibl>
 <bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Oyvind (2014): Wittgenstein’s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST), DATeH, Madrid.</rs></bibl>
-<<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
+<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
 <hi rend="bold">Hadersbeck, </hi>
 <hi rend="bold">Maximilian</hi>
 <hi rend="bold"> / Still, </hi>
