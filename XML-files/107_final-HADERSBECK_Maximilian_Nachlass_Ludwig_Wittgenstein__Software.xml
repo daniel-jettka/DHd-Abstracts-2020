@@ -4,7 +4,7 @@
 <fileDesc>
 <titleStmt>
 <title type="full">
-<title type="main">Nachlass Ludwig Wittgenstein: Softwaretechnologien und computerlinguistische Methoden der Software-Infrastruktur um die FinderApp WiTTFind</title>
+<title type="main">Nachlass Ludwig Wittgenstein: Softwaretechnologien und computerlinguistische Methoden der Software-Infrastruktur um die FinderApp <rs key="WITTfind">WiTTFind</rs></title>
 <title type="sub"/>
 </title>
 <author>
@@ -129,13 +129,13 @@
 <body>
 <div rend="DH-Heading" type="div1">
 <head>Die Infrastuktur und das Projekt</head>
-<p>Seit 2010 kooperieren das Wittgenstein Archiv der Universität Bergen und das Centrum für Informations- und Sprachverarbeitung der Ludwig-Maximilians Universität München in der Forschungsgruppe „Wittgenstein Advanced Search Group“ (WAST). Die Forschungsgruppe entwickelt Web-Frontends (FinderApps) und spezielle Suchwerkzeuge, die sich gut für die Forschung und Lehre im Bereich der Digital Humanities eignen. Ihre erste Suchmaschine, die FinderApp WiTTFind (wittfind.cis.lmu.de, siehe Abb. 1), die den von der UNESCO zum Weltkulturerbe (im Jahr 2017) erhobenen (Schmidt 2018) Nachlass von Ludwig Wittgenstein durchsucht, gewann im Jahre 2014 der EU-Open-Humanity Award. Der Preis zeichnet Gruppen aus, die herausragende Technologie im Bereich der Humanities entwickelt haben. Die in der Forschergruppe programmierte FinderApp WiTTFind erlaubt es, mit hochqualifizierten, computerlinguistisch orientierten Suchwerkzeugen Nachlasstrans-kriptionen zu durchsuchen. Die Transkriptionen entstammen der 
-                    <hi rend="italic">Bergen Normalized Edition</hi>, die die Grundlage der Wittgenstein Edition bildet. Neben den gefundenen Treffern der Suchmaschine, werden in den Suchergebnissen von WiTTFind die Faksimile-Extrakte aus den Originaldokumenten angezeigt. So kann der Nutzer die „Aura“ der gefundenen Textstelle im Original studieren und nicht nur den transkribierten Text sehen.
+<p>Seit 2010 kooperieren das Wittgenstein Archiv der Universität Bergen und das Centrum für Informations- und Sprachverarbeitung der Ludwig-Maximilians Universität München in der Forschungsgruppe „Wittgenstein Advanced Search Group“ (WAST). Die Forschungsgruppe entwickelt Web-Frontends (FinderApps) und spezielle Suchwerkzeuge, die sich gut für die Forschung und Lehre im Bereich der Digital Humanities eignen. Ihre erste Suchmaschine, die FinderApp <rs key="WITTfind" ana="#URL">WiTTFind</rs> (wittfind.cis.lmu.de, siehe Abb. 1), die den von der UNESCO zum Weltkulturerbe (im Jahr 2017) erhobenen (Schmidt 2018) Nachlass von Ludwig Wittgenstein durchsucht, gewann im Jahre 2014 der EU-Open-Humanity Award. Der Preis zeichnet Gruppen aus, die herausragende Technologie im Bereich der Humanities entwickelt haben. Die in der Forschergruppe programmierte FinderApp WiTTFind erlaubt es, mit hochqualifizierten, computerlinguistisch orientierten Suchwerkzeugen Nachlasstrans-kriptionen zu durchsuchen. Die Transkriptionen entstammen der 
+<hi rend="italic">Bergen Normalized Edition</hi>, die die Grundlage der Wittgenstein Edition bildet. Neben den gefundenen Treffern der Suchmaschine, werden in den Suchergebnissen von <rs key="WITTfind">WiTTFind</rs> die Faksimile-Extrakte aus den Originaldokumenten angezeigt. So kann der Nutzer die „Aura“ der gefundenen Textstelle im Original studieren und nicht nur den transkribierten Text sehen.
                 </p>
 <p>
 <figure>
   <graphic url="107_final-f897daa699cd4943461d46e6bf0dc126.png"/>
-  <head> Abbildung 1: WiTTFind (<ref target="http://wittfind.cis.lmu.de/">http://wittfind.cis.lmu.de</ref>)</head>
+  <head> Abbildung 1: <rs key="WITTfind" ana="#URL">WiTTFind</rs> (<ref target="http://wittfind.cis.lmu.de/">http://wittfind.cis.lmu.de</ref>)</head>
 </figure>
 </p>
 <!-- <p>Abb 1: WiTTFind ( -->
@@ -177,7 +177,7 @@
 </div>
 <div rend="DH-Heading2" type="div2">
 <head>XML TEI-P5 Edition CISWAB (Hadersbeck)</head>
-<p>Als Datenbasis für das WiTTFind Projekt wird die „Bergen Nachlass Edition“ (BNE) verwendet, die sich an den Richtlinien der Text Encoding Initiative (TEI-P5) orientiert. Im Workshop werden die wichtigen TEI-XML-Elemente der BNE vorgestellt.</p>
+<p>Als Datenbasis für das <rs key="WITTfind">WiTTFind</rs> Projekt wird die „Bergen Nachlass Edition“ (BNE) verwendet, die sich an den Richtlinien der Text Encoding Initiative (TEI-P5) orientiert. Im Workshop werden die wichtigen TEI-XML-Elemente der BNE vorgestellt.</p>
 <p>&#160; &#160;</p>
 </div>
 <div rend="DH-Heading2" type="div2">
@@ -198,7 +198,7 @@
 </div>
 <div rend="DH-Heading2" type="div2">
 <head>WEB-Oberfläche der FinderApps und Micorservices (Hadersbeck, Still)</head>
-<p>Zur Arbeit mit WiTTFind wird dem User eine WEB-basierte FinderApp zur Verfügung gestellt, die über REST-APIs und „internet microservices“ mit den WAST-Tools kommuniziert. HTML5, Javascript und Bootstrap-css erlauben den Aufbau der WEB-page, die nahezu browserunabhängig die Schnittstelle zum Anwender darstellt. </p>
+<p>Zur Arbeit mit <rs key="WITTfind">WiTTFind</rs> wird dem User eine WEB-basierte FinderApp zur Verfügung gestellt, die über REST-APIs und „internet microservices“ mit den WAST-Tools kommuniziert. HTML5, Javascript und Bootstrap-css erlauben den Aufbau der WEB-page, die nahezu browserunabhängig die Schnittstelle zum Anwender darstellt. </p>
 </div>
 <div rend="DH-Heading2" type="div2">
 <head>Doppelseitiger Faksimilereader und MongoDB (Lindinger)</head>
@@ -222,7 +222,7 @@
     <list type="unordered">
       <item> Gitlab Projektmanagement und Continuous Integration mit git production / testing server (Hadersbeck, Still) 
       </item>
-      <item> XML TEI-P5 Edition CISWAB (Hadersbeck): Bergen Normalized Edition und xslt-Transformationen und Investigate-Mode von WiTTFind</item>
+      <item> XML TEI-P5 Edition CISWAB (Hadersbeck): Bergen Normalized Edition und xslt-Transformationen und Investigate-Mode von <rs key="WITTfind">WiTTFind</rs></item>
       <item> Faksimilestrukturierung und OCR Erkennung (Eisterhues, Landes) </item>
       <item> Lexikalische Arbeit (Röhrer): Lemmatisierte Suche, Lexika, Lokale Grammatiken, Query Beispiele</item>
       <item> WEB-Oberfläche der FinderApps und Microservices (Hadersbeck, Still): Flask server, Javascript</item>
@@ -244,7 +244,7 @@
     <!-- <p> -->
     <!--   <ref target="mailto:florian.babl@campus.lmu.de">florian.babl@campus.lmu.de</ref> -->
     <!-- </p> -->
-    <p>Bachelorarbeit: Entwicklung eines Rankingverfahrens der Suchtreffer für die FinderApp WiTTfind im Nachlass Ludwig Wittgensteins </p>
+    <p>Bachelorarbeit: Entwicklung eines Rankingverfahrens der Suchtreffer für die FinderApp <rs key="WITTfind">WiTTfind</rs> im Nachlass Ludwig Wittgensteins </p>
     <p>Forschungsschwerpunkte: verschiedene Rankingalgorithmen und ihre Funktionalität mit dem Ziel der Rankingverbesserung.</p>
   </div>
   <div rend="DH-Heading2" type="div2">
@@ -260,14 +260,14 @@
     <!--   <ref target="mailto:maximilian.hadersbeck@lmu.de">maximilian.hadersbeck@lmu.de</ref> -->
     <!-- </p> -->
     <p>Projektleiter und Dozent am CIS</p>
-    <p>Forschungsschwerpunkte: Digitaler Zugang zum Nachlass von Ludwig Wittgenstein, FinderApp WiTTFind, Wittgenstein Advanced Search Tools, Programmierung: C++, Python, XML</p>
+    <p>Forschungsschwerpunkte: Digitaler Zugang zum Nachlass von Ludwig Wittgenstein, FinderApp <rs key="WITTfind">WiTTFind</rs>, Wittgenstein Advanced Search Tools, Programmierung: C++, Python, XML</p>
   </div>
   <div rend="DH-Heading2" type="div2">
     <head>Florian Landes (Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften) </head>
     <!-- <p> -->
     <!--   <ref target="mailto:florian.landes@kbl.badw.de">florian.landes@kbl.badw.de</ref> -->
     <!-- </p> -->
-    <p>Bachelorarbeit: Optical Character Recognition (OCR) – Optische Zeichenerkennung (OZE) Ein Werkzeug zur Verknüpfung von digitaler Edition und Faksimile? Semiautomatische Ermittlung von Bildkoordinaten für WiTTFind</p>
+  <p>Bachelorarbeit: Optical Character Recognition (OCR) – Optische Zeichenerkennung (OZE) Ein Werkzeug zur Verknüpfung von digitaler Edition und Faksimile? Semiautomatische Ermittlung von Bildkoordinaten für <rs key="WITTfind">WiTTFind</rs></p>
     <p>Forschungsschwerpunkte: OCR, OZE, Bavarikonprojekt Ortsnamen des Regierungsbezirks Schwaben</p>
     <p>&#160;<lb/>&#160;<lb/>&#160;</p>
   </div>

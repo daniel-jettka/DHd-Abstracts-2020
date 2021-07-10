@@ -133,7 +133,7 @@ vor erhebliche Probleme. Auch die vermeintlich einfach gedruckten Frakturromane 
 <head>Abbildung 2: Im Teilmodul der Segmentierung erfolgen die Typisierung der Layoutelemente sowie die Festlegung der Lesereihenfolge. </head>
 </figure>
 <!-- <p style="text-align:left; ">Abbildung 2: Im Teilmodul der Segmentierung erfolgen die Typisierung der Layoutelemente sowie die Festlegung der Lesereihenfolge.</p> -->
-<p style="text-align:left; ">Der Layouttypisierung folgt die Zeilensegmentierung. In dieser werden die Text beinhaltenden Layoutbestandteile in einzelne Zeilenbilder zerteilt (OCRopus<ref n="4" target="ftn4"/>), um die eigentliche OCR vorzubereiten.
+<p style="text-align:left; ">Der Layouttypisierung folgt die Zeilensegmentierung. In dieser werden die Text beinhaltenden Layoutbestandteile in einzelne Zeilenbilder zerteilt (<rs key="OCRopus" ana="#URL">OCRopus</rs><ref n="4" target="ftn4"/>), um die eigentliche OCR vorzubereiten.
                 </p>
 <p style="text-align:left; ">Anschließend wird im Erkennungsschritt aus den vorliegenden Einzelzeilen (mittels Calamari<ref n="5" target="ftn5"/>) maschinenverarbeitbarer Text generiert. Dazu können in OCR4all bereits standardmäßig integrierte gemischte Modelle für Fraktur- und Antiquaschriften unterschiedlicher Epochen genutzt werden. Es besteht die Möglichkeit, die entstandenen Texte anschließend in einem Editor komfortabel zu korrigieren (s. Abbildung 3).
                 </p>
