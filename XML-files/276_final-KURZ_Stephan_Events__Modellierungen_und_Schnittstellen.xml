@@ -144,10 +144,10 @@
   <hi rend="bold">CIDOC Conceptual Reference Model</hi>
   Version 6.2, Mai 2015, <ptr target="http://www.cidoc-crm.org/Version/version-6.2"/>
 </bibl>
-<bibl>
+<bibl><rs key="CorrespSearch" ana="#Bib.Ref #Agent #URL">
   <hi rend="bold">Dumont, Stefan </hi> (2016):
   correspSearch – Connecting Scholarly Editions of Letters, in: Journal of the Text Encoding Initiative, Issue 10, 2016, <ptr target="http://journals.openedition.org/jtei/1742"/>.
-</bibl>
+</rs></bibl>
 <bibl>
   <hi rend="bold">Dumont, Stefan et al.</hi> (2019):
   Correspondence Metadata Interchange Format (CMIF). In: Encoding Correspondence. A Manual for Encoding Letters and Postcards in TEI-XML and DTABf. Edited by Stefan Dumont, Susanne Haaf and Sabine Seifert. Berlin 2019. 

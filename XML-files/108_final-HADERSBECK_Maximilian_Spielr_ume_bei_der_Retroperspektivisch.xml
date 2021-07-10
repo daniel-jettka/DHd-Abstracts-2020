@@ -170,15 +170,15 @@ Lemmata <hi rend="italic"> (WiTTLex,</hi> Röhrer 2019). Diese Informationen wer
 <hi rend="bold"> et al.</hi> (1996): „A density-based algorithm for discovering clusters in large spatial databases with noise.“, in 
                         <hi rend="italic">KDD</hi>, volume 96, pages 226–231.
                     </bibl>
-<bibl>Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Oyvind (2014): Wittgenstein’s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST), DATeH, Madrid.</bibl>
-<bibl>
+<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">Hadersbeck, Maximilian / Pichler, Alois / Fink, Florian / Gjesdal, Oyvind (2014): Wittgenstein’s Nachlass: WiTTFind and Wittgenstein Advanced Search Tools (WAST), DATeH, Madrid.</rs></bibl>
+<<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
 <hi rend="bold">Hadersbeck, </hi>
 <hi rend="bold">Maximilian</hi>
 <hi rend="bold"> / Still, </hi>
 <hi rend="bold">Sebastian</hi>
 <hi rend="bold"> (2018): </hi>
 <hi rend="italic">Investigating Wittgenstein’s Nachlass: WiTTFind, WiTTReader, OdysseeReader and Wittgenstein Advanced Search Tools</hi>, im Katalog zur Ausstellung „DIE TRACTATUS ODYSSEE“ S.127-137, Wittgenstein Initiative, Wien.
-                    </bibl>
+                    </rs></bibl>
 <bibl>
 <hi rend="bold">Lloyd, </hi>
 <hi rend="bold">Stuart P. </hi>(1982): „Least squares quantization in pcm“, in: 

@@ -299,20 +299,20 @@
 <div type="bibliogr">
 <listBibl>
 <head>Bibliographie</head>
-<bibl>
+<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
 <hi rend="bold">Babl, Florian </hi>(2019): 
                         <hi rend="italic">Entwicklung eines Rankingverfahrens der Suchtreffer für die FinderApp WiTTFind im Nachlass Ludwig Wittgensteins</hi>. Bachelor‘s thesis. LMU.
-                    </bibl>
+                    </rs></bibl>
 <bibl>
 <hi rend="bold">Landes, </hi>
 <hi rend="bold">Florian</hi> (2019): 
                         <hi rend="italic">Optical Character Recognition (OCR) – Optische Zeichenerkennung (OZE). Ein Werkzeug zur Verknüpfung von digitaler Edition und Faksimile? Semiautomatische Ermittlung von Bildkoordinaten für WiTTFind</hi>, Bachelorarbeit, LMU.
                     </bibl>
-<bibl>
+<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
 <hi rend="bold">Lindinger, Matthias</hi> (2013): 
                         <hi rend="italic">Highlighting von Treffern des Suchmaschinentools </hi>
 <hi rend="italic">WiTTFind im zugehörigen Faksimile.</hi> Bachelor‘s thesis, LMU.
-</bibl>
+</rs></bibl>
 <bibl>
 <hi rend="bold">Lindinger, </hi>
 <hi rend="bold">Matthias</hi> (2015): 
@@ -334,7 +334,7 @@
                         <hi rend="italic">,</hi> in: 
                         <hi rend="italic">Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage</hi>, 91-96. ACM.
                     </bibl>
-<bibl>
+<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent #URL">
 <hi rend="bold">Hadersbeck , </hi>
 <hi rend="bold">Maximilian /</hi>
 <hi rend="bold"> Pichler, </hi>
@@ -342,7 +342,7 @@
 <hi rend="bold"> Bruder, Daniel / Schweter, Stefan</hi> (2016): 
                         <hi rend="italic">New (re)search </hi>
 <hi rend="italic">possibilities for Wittgenstein's Nachlass II: Advanced Search, Navigation and Feedback with the FinderApp WiTTFind</hi>. http://wab.uib.no/alois/Hadersbeck_Pichler%20Kirchberg2016.pdf [letzter Zugriff 20.09.2019].
-                    </bibl>
+                    </rs></bibl>
 <bibl>
 <hi rend="bold">Röhrer, </hi>
 <hi rend="bold">Ines / </hi>
