@@ -139,14 +139,15 @@
           </figure>
           <p>Das DFG-Projekt <hi rend="italic">forTEXT</hi> (<ref target="https://fortext.net"
               >https://fortext.net</ref>; vgl. Fig. 2) bietet in diesem Zusammenhang einen
-            Methodeneintrag (vgl. Schumacher 2018b), eine (Gephi-)Lerneinheit (vgl. Schumacher
-            2019b), ein Fallstudien-Video<ref n="1" target="ftn1"/>, vier Tutorialvideos<ref n="2"
-              target="ftn2"/> sowie praktische Anwendungen in der Lehre. Hierbei sind jeweils
-            unterschiedliche Abstraktionsgrade und verschiedene Arten der Vermittlung abgedeckt: Der
-            Methodeneintrag ist eine abstrakte, sprachlich-theoretische Beschreibung der Methode mit
-            dem Schwerpunkt der Anschlussfähigkeit an die traditionelle Literaturwissenschaft. Die
-            Lerneinheit ist eine konkrete Klick-für-Klick-Einführung für Autodidakten aus der
-            Zielgruppe junger Geisteswissenschaftlerïnnen in Form einer Text-Bild-Kombination. </p>
+            Methodeneintrag (vgl. Schumacher 2018b), eine (<rs key="Gephi" ana="#Bib.Ref"
+            >Gephi</rs>-)Lerneinheit (vgl. Schumacher 2019b), ein Fallstudien-Video<ref n="1"
+              target="ftn1"/>, vier Tutorialvideos<ref n="2" target="ftn2"/> sowie praktische
+            Anwendungen in der Lehre. Hierbei sind jeweils unterschiedliche Abstraktionsgrade und
+            verschiedene Arten der Vermittlung abgedeckt: Der Methodeneintrag ist eine abstrakte,
+            sprachlich-theoretische Beschreibung der Methode mit dem Schwerpunkt der
+            Anschlussfähigkeit an die traditionelle Literaturwissenschaft. Die Lerneinheit ist eine
+            konkrete Klick-für-Klick-Einführung für Autodidakten aus der Zielgruppe junger
+            Geisteswissenschaftlerïnnen in Form einer Text-Bild-Kombination. </p>
           <p>Die Videos vermitteln die Methode über eine Text-Bild-Audio-Kombination: Das
             Methodenvideo bietet eine Fallstudie zum Figurennetzwerk von <hi rend="italic">Emilia
               Galotti</hi>. Es vermittelt die Methode an eine autodidaktische Zielgruppe
@@ -167,12 +168,12 @@
             Inhalte Betrachterïnnen und Erstellerïnnen des Videos miteinander verbindet (vgl.
             Horstmann &amp; Schumacher 2019).</p>
           <p>Die Tutorial-Reihe schließlich funktioniert ähnlich wie die Lerneinheit als
-            Schritt-für-Schritt-Anleitung und bietet die Möglichkeit, die Arbeit mit Gephi als
-            Screencast zu erlernen. Das Tutorial-Video zur Nutzung des DraCor-Tools ezlinavis
-            verknüpft die praktische Erstellung von Netzwerken mit der Nutzung der Ressource
-            TextGrid Repository (vgl. Horstmann 2018) und den Methoden Named Entity Recognition
-            (vgl. Schumacher 2018a) und Annotation in <rs key="CATMA" ana="#Bib.Ref">CATMA (vgl.
-              Jacke 2018 und Schumacher 2019a)</rs>.</p>
+            Schritt-für-Schritt-Anleitung und bietet die Möglichkeit, die Arbeit mit <rs key="Gephi"
+              >Gephi</rs> als Screencast zu erlernen. Das Tutorial-Video zur Nutzung des
+            DraCor-Tools ezlinavis verknüpft die praktische Erstellung von Netzwerken mit der
+            Nutzung der Ressource TextGrid Repository (vgl. Horstmann 2018) und den Methoden Named
+            Entity Recognition (vgl. Schumacher 2018a) und Annotation in <rs key="CATMA"
+              ana="#Bib.Ref">CATMA (vgl. Jacke 2018 und Schumacher 2019a)</rs>.</p>
         </div>
         <div rend="DH-Heading2" type="div2">
           <head>Das Dramenquartett als Erweiterung des Disseminationsmodells in forTEXT</head>
@@ -190,18 +191,18 @@
             Hinsicht der Prozess einer Art <hi rend="italic">Reverse Engineering</hi> im Sinne einer
             Mustererkennung auf unterschiedlichen Komplexitätsstufen angestoßen werden kann. Der Weg
             hin zu einem Umgang mit digitalen Ressourcen und Tools wie DraCor, ezlinavis und sogar
-            die Anwendung eines komplexeren Tools wie Gephi ist damit geebnet, die kritische
-            Methodenreflexion kann folgen. Dieser niedrigschwellige Zugang fügt sich in das auf
-            Zugänglichkeit und Benutzerfreundlichkeit konzentrierte Disseminationsmodell von forTEXT
-            ein und erweitert dieses durch den zusätzlichen Abbau von Schwellenängsten oder
-            Vorbehalten gegen digitale Methoden. </p>
+            die Anwendung eines komplexeren Tools wie <rs key="Gephi">Gephi</rs> ist damit geebnet,
+            die kritische Methodenreflexion kann folgen. Dieser niedrigschwellige Zugang fügt sich
+            in das auf Zugänglichkeit und Benutzerfreundlichkeit konzentrierte Disseminationsmodell
+            von forTEXT ein und erweitert dieses durch den zusätzlichen Abbau von Schwellenängsten
+            oder Vorbehalten gegen digitale Methoden. </p>
           <p>Die im Folgenden vorgestellte, reflektierte und erprobte Pipeline geht von einer ersten
             theoretischen Annäherung durch forTEXT-Tutorials aus, auf die eine spielerische
             Vertiefung der spezifischen Objektkonstitution qua Netzwerkanalyse und der
             entsprechenden Metriken mittels des Dramenquartetts folgt. Anschließende Arbeitsphasen
             könnten, wie in 3. skizziert, z. B. die formalisierte Erstellung, Gestaltung und Analyse
-            von Dramennetzwerken mittels ezlinavis und Gephi oder die konkrete Bearbeitung von
-            literarhistorischen Forschungsfragen mittels DraCor umfassen.</p>
+            von Dramennetzwerken mittels ezlinavis und <rs key="Gephi">Gephi</rs> oder die konkrete
+            Bearbeitung von literarhistorischen Forschungsfragen mittels DraCor umfassen.</p>
         </div>
       </div>
       <div rend="DH-Heading1" type="div1">
@@ -345,12 +346,12 @@
           analogen und digitalen Ansätzen.</p>
         <p>So ließen sich auf der Grundlage der Netzwerkdaten aus anderen DH-Projekten, etwa zu
           Romanen, andere generische Karten-Sets entwerfen, wobei auch die – durch ezlinavis in
-          Kombination mit Gephi ermöglichte – kollaborative Erstellung eigener Sets denkbar ist.
-          Diese selbstständige Erstellung von Karten-Sets würde nicht zuletzt auch den haptischen
-          Lerntyp ansprechen. Eine Weiterentwicklung der didaktischen Engführung von Analogem und
-          Digitalem ließe sich über eine Verzahnung des Kartenspiels mit der digital-interaktiven
-          Repräsentation der einzelnen Dramen auf DraCor vornehmen (z. B. über QR-Codes). Unter
-          didaktischen Gesichtspunkten bietet sich des Weiteren die Möglichkeit,
+          Kombination mit <rs key="Gephi">Gephi</rs> ermöglichte – kollaborative Erstellung eigener
+          Sets denkbar ist. Diese selbstständige Erstellung von Karten-Sets würde nicht zuletzt auch
+          den haptischen Lerntyp ansprechen. Eine Weiterentwicklung der didaktischen Engführung von
+          Analogem und Digitalem ließe sich über eine Verzahnung des Kartenspiels mit der
+          digital-interaktiven Repräsentation der einzelnen Dramen auf DraCor vornehmen (z. B. über
+          QR-Codes). Unter didaktischen Gesichtspunkten bietet sich des Weiteren die Möglichkeit,
           kreativ-produktionsorientierte Elemente in die skizzierte Pipeline einzubauen, etwa indem
           die Lernenden Netzwerke ,erfinden‘, die sie zunächst händisch zeichnen und dann – den
           Schritt in den digitalen Raum machend – mittels ezlinavis formal erfassen müssen.</p>
@@ -485,12 +486,12 @@
                 >https://fortext.net/tools/tools/catma</ref> [letzter Zugriff 12. September
               2019].</rs>
           </bibl>
-          <bibl>
-            <hi rend="bold">Schumacher, Mareike</hi> (2019b): „Netzwerkanalyse mit Gephi“, in: <hi
-              rend="italic">forTEXT. Literatur digital erforschen</hi>. URL: <ref
-              target="https://fortext.net/routinen/lerneinheiten/netzwerkanalyse-mit-gephi"
-              >https://fortext.net/routinen/lerneinheiten/netzwerkanalyse-mit-gephi</ref> [letzter
-            Zugriff 12. September 2019]. </bibl>
+          <bibl><rs key="Gephi" ana="#Bib.Ref #Agent #URL">
+              <hi rend="bold">Schumacher, Mareike</hi> (2019b): „Netzwerkanalyse mit Gephi“, in: <hi
+                rend="italic">forTEXT. Literatur digital erforschen</hi>. URL: <ref
+                target="https://fortext.net/routinen/lerneinheiten/netzwerkanalyse-mit-gephi"
+                >https://fortext.net/routinen/lerneinheiten/netzwerkanalyse-mit-gephi</ref> [letzter
+              Zugriff 12. September 2019]. </rs></bibl>
           <bibl>
             <hi rend="bold">Trilcke, Peer / Fischer, Frank</hi> (2018): „Literaturwissenschaft als
             Hackathon. Zur Praxeologie der Digital Literary Studies und ihren epistemischen Dingen”,

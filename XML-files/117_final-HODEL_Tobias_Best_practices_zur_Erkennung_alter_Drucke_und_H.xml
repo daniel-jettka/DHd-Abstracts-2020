@@ -214,19 +214,19 @@ Eine Alternative zu <rs key="Transkribus">Transkribus</rs> ist die Open Source S
 <hi rend="bold">Leifert, Gundram u. a. </hi> (2016): Cells in Multidimensional Recurrent Neural Networks. 
 <hi rend="italic">Journal of Machine Learning. Res.</hi> 17/97:1–97:37.
 </bibl>
-<bibl style="text-align:left; ">
+<bibl style="text-align:left; "><rs key="Transkribus" ana="#Bib.Ref #Agent #PID">
 <hi rend="bold">Muehlberger, Guenter u. a. </hi> (2019): Super Transforming scholarship in the archives through handwritten text recognition: Transkribus as a case study. 
 <hi rend="italic">Journal of Documentation 75/5 </hi>, 954-976. 
 <ref target="https://doi.org/10.1108/JD-07-2018-0114">https://doi.org/10.1108/JD-07-2018-0114</ref>
-</bibl>
+</rs></bibl>
 <bibl style="text-align:left; ">
 <hi rend="bold">Neudecker, Clemens u. a. </hi> (2019): OCR-D: An end-to-end open source OCR framework for historical documents. 
 <hi rend="italic">EuropeanaTech Insight</hi> 13.
 </bibl>
-<bibl style="text-align:left; ">
+<bibl style="text-align:left; "><rs key="Transkribus" ana="#Bib.Soft #URL">
 <hi rend="bold">READ: Transkribus</hi>
 <hi style="font-family:Helvetica">. https://read.transkribus.eu/transkribus/ [12.9.2019].</hi>
-</bibl>
+</rs></bibl>
 <bibl style="text-align:left; ">
   <hi rend="bold">Quirós, Lorenzo </hi> (2017): 
 <hi rend="italic">P2PaLA: page to PAGE layout analysis tookit.</hi> https://github.com/lquirosd/P2PaLA.

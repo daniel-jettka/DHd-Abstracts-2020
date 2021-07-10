@@ -167,5 +167,5 @@ Reproduzierbarkeit von Forschungsergebnissen sicherzustellen.</p>
 </div>
 </div>
 </body>
-<back><div type="notes"><note n="1" rend="footnote text" xml:id="ftn0">Eintrag des offiziellen DARIAH-Wikis schildert, dass gängige Funktionen wie ein Lemmatisierer nicht mehr nachinstalliert werden können.</note><note n="2" rend="footnote text" xml:id="ftn1">Der Abschlussbericht des Projekts TextGrid aus dem Jahr 2012 schildert die Implementierung einer OCR Funktion mittels OCRopus, welche in den aktuellen Versionen nicht mehr zu finden ist.</note></div></back></text>
+<back><div type="notes"><note n="1" rend="footnote text" xml:id="ftn0">Eintrag des offiziellen DARIAH-Wikis schildert, dass gängige Funktionen wie ein Lemmatisierer nicht mehr nachinstalliert werden können.</note><note n="2" rend="footnote text" xml:id="ftn1">Der Abschlussbericht des Projekts TextGrid aus dem Jahr 2012 schildert die Implementierung einer OCR Funktion mittels <rs key="OCRopus">OCRopus</rs>, welche in den aktuellen Versionen nicht mehr zu finden ist.</note></div></back></text>
 </TEI>
