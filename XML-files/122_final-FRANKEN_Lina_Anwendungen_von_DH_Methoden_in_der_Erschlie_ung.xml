@@ -208,10 +208,10 @@
 <hi rend="bold">Star, Susan Leigh / Strauss, Anselm L.</hi> (1999): “Layers of Silence, Arenas of Voice. The Ecology of Visible and Invisible Work.” In: 
                         <hi rend="italic">Computer Supported Cooperative Work</hi> 8/1-2, S. 9–30.
                     </bibl>
-<bibl style="text-align:left; ">
+<bibl style="text-align:left; "><rs key="Gephi" ana="#Bib.Ref #URL #Agent">
 <hi rend="bold">Werner, Claus</hi> (2019): „Die Sammlung als Graph. Gephi als Tool der Sammlungsevaluation. Deutsches Bergbau-Museum Bochum.“ Vortrag im Rahmen der Tagung 
                         <hi rend="italic">Museums and the Internet (Mai-Tagung) 2019</hi>. https://mai-tagung.lvr.de/media/mai_tagung/pdf/2019/MAI-2019-Werner.pdf.
-                    </bibl>
+                    </rs></bibl>
 </listBibl>
 </div>
 </back>
