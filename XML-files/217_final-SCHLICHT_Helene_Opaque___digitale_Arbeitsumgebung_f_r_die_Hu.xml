@@ -95,10 +95,10 @@
 </p>
 <p>Die Funktionsschwerpunkte von <rs key="Opaque">Opaque</rs> unterscheiden sich von anderen deutschen DH-Softwareentwicklungen. Hervorzuheben sind 
 <hi rend="italic">TextGrid</hi>, 
-<hi rend="italic">FuD</hi> und 
+<rs key="FuD"><hi rend="italic">FuD</hi></rs> und 
 <hi rend="italic">CQPweb</hi>, die einen ähnlichen Anspruch als virtuelle Forschungsumgebung verfolgen. Im Unterschied zu <rs key="Opaque">Opaque</rs> legen 
 <hi rend="italic">TextGrid</hi> und 
-<hi rend="italic">FuD</hi> ihre Schwerpunkte auf händische Datenaufbereitung und nachhaltige Speicherung via integrierter Publikationsplattformen, wohingegen 
+<rs key="FuD"><hi rend="italic">FuD</hi></rs> ihre Schwerpunkte auf händische Datenaufbereitung und nachhaltige Speicherung via integrierter Publikationsplattformen, wohingegen 
 <hi rend="italic">CQPweb</hi> ein Werkzeug zur
 Korpusanalyse darstellt, dessen Query
 Processor in <rs key="Opaque">Opaque</rs> übernommen wurde. <rs key="Opaque">Opaque</rs>
