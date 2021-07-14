@@ -103,7 +103,7 @@
         <hi style="font-size:10pt">) als für das Modell zugrundeliegende Ontologie realisiert. CIDOC
           CRM ist eine etablierte Technologie zur Erfassung kultureller Objekte (Doerr 2003).
           <lb/>Der Workflow besteht aus den folgenden Schritten: Die Transkription beziehungsweise
-          Annotation der Videos erfolgt in <rs key="ELAN" ana="#URI">ELAN ( <ref
+          Annotation der Videos erfolgt in <rs key="ELAN" ana="#URL">ELAN ( <ref
               target="https://tla.mpi.nl/tools/tla-tools/elan/">
               <hi rend="underline color(1155CC)" style="font-size:10pt"
                 >https://tla.mpi.nl/tools/tla-tools/elan/</hi>
