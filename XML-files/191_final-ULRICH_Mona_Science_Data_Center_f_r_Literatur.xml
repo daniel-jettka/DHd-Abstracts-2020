@@ -194,7 +194,7 @@
 	<hi rend="bold">Gould, Amanda Starling </hi> (2012): „A Bibliographic Overview of Electronic Literature“. In: 
 	<hi rend="italic">Electronic Literature Directory</hi>  o.V.
       </bibl>
-      <bibl><rs key="WebLicht" ana="#Bib.Ref #Agent">
+      <bibl><rs key="WebLicht" ana="#Bib.Ref">
 	<hi rend="bold">Hinrichs, Erhard W., Marie Hinrichs und Thomas	Zastrow </hi> (2010): 
 	<hi rend="italic">WebLicht: Web-Based LRT Services for German</hi>, Proceedings of the ACL 2010 System Demonstrations, S. 25–29.
       </rs></bibl>

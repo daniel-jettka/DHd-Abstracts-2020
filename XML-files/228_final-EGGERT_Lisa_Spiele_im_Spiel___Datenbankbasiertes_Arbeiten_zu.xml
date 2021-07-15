@@ -266,7 +266,7 @@
             Requirements in the Design of Virtual Research Environments for the Arts and Humanities:
             Programming for the Future? In: Lossau, N. und H. Neuroth (Hrsg.): Evolution der
             Informationsinfrastruktur. Glückstadt: Verlag Werner Hülsbusch 71-84. </bibl>
-          <bibl><rs key="ANNIS" ana="#Bib.Ref #Agent #URL">
+          <bibl><rs key="ANNIS" ana="#Bib.Ref">
               <hi rend="bold" xml:space="preserve">Krause, Thomas / Zeldes, Amir </hi>(2016): <hi
                 rend="italic">ANNIS3: A new architecture for generic corpus query and
                 visualization.</hi> in: Digital Scholarship in the Humanities 2016 (31)). <ref
