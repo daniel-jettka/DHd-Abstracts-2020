@@ -292,7 +292,7 @@
             <hi rend="bold">CIDOC Conceptual Reference Model</hi> Version 6.2, Mai 2015, <ptr
               target="http://www.cidoc-crm.org/Version/version-6.2"/>
           </bibl>
-          <bibl><rs key="CorrespSearch" ana="#Bib.Ref #Agent #URL">
+          <bibl><rs key="CorrespSearch" ana="#Bib.Ref">
               <hi rend="bold">Dumont, Stefan </hi> (2016): correspSearch – Connecting Scholarly
               Editions of Letters, in: Journal of the Text Encoding Initiative, Issue 10, 2016, <ptr
                 target="http://journals.openedition.org/jtei/1742"/>. </rs></bibl>

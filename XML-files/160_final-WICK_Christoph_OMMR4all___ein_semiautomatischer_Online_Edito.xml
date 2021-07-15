@@ -245,7 +245,7 @@
 <hi rend="italic" style="font-size:10pt">Applied Sciences 9</hi>
 <hi style="font-size:10pt">.</hi>
 </bibl>
-<bibl><rs key="OCRopus" ana="#Bib.Ref #Agent">
+<bibl><rs key="OCRopus" ana="#Bib.Ref">
 <hi rend="bold">Wick, Christoph / Reul, Christian / Puppe, Frank</hi>
 <hi style="font-size:10pt">(2018): "Comparison of OCR Accuracy on Early Printed Books using the Open Source Engines Calamari and OCRopus", in:</hi>
 <hi rend="italic" style="font-size:10pt">JLCL: Special Issue on Automatic Text and Layout Recognition: 79-96.</hi>

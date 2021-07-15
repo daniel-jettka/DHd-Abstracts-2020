@@ -299,7 +299,7 @@
 <div type="bibliogr">
 <listBibl>
 <head>Bibliographie</head>
-<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
+<bibl><rs key="WITTfind" ana="#Bib.Ref">
 <hi rend="bold">Babl, Florian </hi>(2019): 
                         <hi rend="italic">Entwicklung eines Rankingverfahrens der Suchtreffer für die FinderApp WiTTFind im Nachlass Ludwig Wittgensteins</hi>. Bachelor‘s thesis. LMU.
                     </rs></bibl>
@@ -308,7 +308,7 @@
 <hi rend="bold">Florian</hi> (2019): 
                         <hi rend="italic">Optical Character Recognition (OCR) – Optische Zeichenerkennung (OZE). Ein Werkzeug zur Verknüpfung von digitaler Edition und Faksimile? Semiautomatische Ermittlung von Bildkoordinaten für WiTTFind</hi>, Bachelorarbeit, LMU.
                     </bibl>
-<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent">
+<bibl><rs key="WITTfind" ana="#Bib.Ref">
 <hi rend="bold">Lindinger, Matthias</hi> (2013): 
                         <hi rend="italic">Highlighting von Treffern des Suchmaschinentools </hi>
 <hi rend="italic">WiTTFind im zugehörigen Faksimile.</hi> Bachelor‘s thesis, LMU.
@@ -334,7 +334,7 @@
                         <hi rend="italic">,</hi> in: 
                         <hi rend="italic">Proceedings of the First International Conference on Digital Access to Textual Cultural Heritage</hi>, 91-96. ACM.
                     </bibl>
-<bibl><rs key="WITTfind" ana="#Bib.Ref #Agent #URL">
+<bibl><rs key="WITTfind" ana="#Bib.Ref">
 <hi rend="bold">Hadersbeck , </hi>
 <hi rend="bold">Maximilian /</hi>
 <hi rend="bold"> Pichler, </hi>

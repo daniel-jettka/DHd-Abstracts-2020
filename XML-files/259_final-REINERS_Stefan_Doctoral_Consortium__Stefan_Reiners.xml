@@ -98,7 +98,7 @@
           verglichen. </p>
         <p>Da es aber keinerlei Forschung zur historischen Entwicklung oder zum Prozess der
           Konstituierung der Völkerpsychologie gibt, dient das DR hier der Exploration. Dafür
-          erscheint Topic Modeling (z.B. mit <rs key="MALLET" ana="#Bib.Miss">MALLET, McCallum
+          erscheint Topic Modeling (z.B. mit <rs key="MALLET" ana="#Bib.Ref">MALLET, McCallum
             2002</rs>), gegebenenfalls im Zusammenspiel mit Kollokationsanalysen (z.B. mit
           #LancsBox, Brezina et al. 2019), als adäquate Lösung: Ziel ist es, die Entwicklungsmuster
           der Wissenschaft Völkerpsychologie abzubilden und dabei auch Bruchstellen oder andere
